@@ -1,0 +1,1 @@
+Computer programs access system memory for processing. Humans draw upon our own stored memory to perform daily tasks. When a computer program tries to access a piece of memory that doesn't exist or otherwise access memory the wrong way (we'll cover this later), it will crash.
